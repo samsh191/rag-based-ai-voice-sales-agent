@@ -1,0 +1,88 @@
+:root {
+  --navy-950: #0f1b2d;
+  --navy-900: #13233a;
+  --navy-800: #1a3050;
+  --porcelain: #f7f8f5;
+  --porcelain-dim: #eef0ea;
+  --ink: #14202e;
+  --ink-soft: #4a5768;
+  --amber: #ffb020;
+  --amber-dim: #cf8f19;
+  --teal: #2fbf9f;
+  --line: #dfe2db;
+  --line-dark: rgba(255, 255, 255, 0.14);
+
+  --font-display: "Space Grotesk", "Helvetica Neue", Arial, sans-serif;
+  --font-body: "Inter", "Helvetica Neue", Arial, sans-serif;
+
+  color-scheme: light;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html,
+body,
+#root {
+  height: 100%;
+}
+
+body {
+  margin: 0;
+  font-family: var(--font-body);
+  color: var(--ink);
+  background: var(--porcelain);
+  -webkit-font-smoothing: antialiased;
+}
+
+h1,
+h2,
+h3 {
+  font-family: var(--font-display);
+  margin: 0;
+  letter-spacing: -0.01em;
+  line-height: 1.08;
+}
+
+p {
+  margin: 0;
+  color: var(--ink-soft);
+  line-height: 1.55;
+}
+
+a {
+  color: inherit;
+}
+
+button {
+  font-family: var(--font-body);
+  cursor: pointer;
+}
+
+:focus-visible {
+  outline: 2px solid var(--amber);
+  outline-offset: 2px;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.001ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.001ms !important;
+  }
+}
+
+.container {
+  max-width: 1120px;
+  margin: 0 auto;
+  padding: 0 32px;
+}
+
+@media (max-width: 640px) {
+  .container {
+    padding: 0 20px;
+  }
+}

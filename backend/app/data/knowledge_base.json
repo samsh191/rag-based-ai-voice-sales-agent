@@ -1,0 +1,86 @@
+[
+  {
+    "id": "plan-spark",
+    "topic": "plans",
+    "title": "Spark 300 plan",
+    "text": "Spark 300 is Aporum's entry plan. Download speed 300 Mbps, upload speed 30 Mbps. Priced at $45/month. Good fit for 1-3 people who stream in HD, browse, and video call. No data caps. No contract required, month-to-month billing."
+  },
+  {
+    "id": "plan-surge",
+    "topic": "plans",
+    "title": "Surge 600 plan",
+    "text": "Surge 600 is Aporum's most popular plan. Download speed 600 Mbps, upload speed 60 Mbps. Priced at $65/month. Good fit for 3-5 people, households with multiple 4K streams, gaming, and remote work video calls at the same time. No data caps. No contract required."
+  },
+  {
+    "id": "plan-quantum",
+    "topic": "plans",
+    "title": "Quantum 1 Gig plan",
+    "text": "Quantum 1 Gig is Aporum's fastest residential plan. Download speed 1000 Mbps (1 Gbps), upload speed 500 Mbps, symmetric-leaning fiber connection. Priced at $85/month. Good fit for large households, smart-home heavy homes, 4K/8K streaming on many devices at once, content creators uploading large files, and competitive gaming. No data caps. No contract required."
+  },
+  {
+    "id": "plan-quantum-pro",
+    "topic": "plans",
+    "title": "Quantum Pro 2 Gig plan",
+    "text": "Quantum Pro is Aporum's business-grade residential plan for power users. Download and upload both 2000 Mbps symmetric fiber. Priced at $120/month. Includes a static IP option and priority support queue. Good fit for home offices, streamers, and multi-person households running servers or heavy cloud backups."
+  },
+  {
+    "id": "pricing-fees",
+    "topic": "pricing",
+    "title": "Fees and equipment",
+    "text": "All Aporum plans include the WiFi 6 router at no extra monthly rental fee. A one-time professional installation fee of $49 applies to new addresses; this fee is waived for customers who sign up during a current promotion. There are no early termination fees since all plans are month-to-month. Taxes and local franchise fees are added at checkout based on address."
+  },
+  {
+    "id": "pricing-promo",
+    "topic": "pricing",
+    "title": "Current promotion",
+    "text": "New customers who sign up online this month get their first 2 months at 50% off any plan, and the $49 installation fee is waived. The discount applies automatically at checkout when the sign-up is completed online; it does not require a promo code."
+  },
+  {
+    "id": "process-eligibility",
+    "topic": "process",
+    "title": "Checking availability",
+    "text": "Aporum service availability depends on the customer's address. During sign-up, the customer enters their street address and Aporum checks it against the fiber and cable coverage map. If the address is serviceable, the customer can proceed immediately; if not, they can join the expansion waitlist for that neighborhood."
+  },
+  {
+    "id": "process-signup-steps",
+    "topic": "process",
+    "title": "Sign-up steps",
+    "text": "The sign-up flow has four steps: 1) Enter and confirm the service address. 2) Choose a plan (Spark 300, Surge 600, Quantum 1 Gig, or Quantum Pro 2 Gig). 3) Enter contact details (name, email, phone) and choose a self-install or professional install appointment window. 4) Review the order summary and confirm. After confirmation the customer receives an email with their installation date and account setup instructions."
+  },
+  {
+    "id": "process-install",
+    "topic": "process",
+    "title": "Installation",
+    "text": "Most customers can self-install using the Aporum app and the included WiFi 6 router in under 15 minutes. Customers who prefer a technician can choose professional installation, typically scheduled within 3-5 business days of signing up, for the standard $49 fee (waived during the current promotion)."
+  },
+  {
+    "id": "process-switching",
+    "topic": "process",
+    "title": "Switching from another provider",
+    "text": "Customers switching from another internet provider do not need to contact their old provider first. Aporum handles the new line activation independently, so there is no service gap if timed with the old provider's cancellation. Aporum recommends cancelling the old provider once the new Aporum connection is confirmed active."
+  },
+  {
+    "id": "support-uptime",
+    "topic": "support",
+    "title": "Reliability and support",
+    "text": "Aporum's network has 99.9% average uptime. Customer support is available 24/7 by chat and phone. Quantum Pro customers get a priority support queue with under 2 minute average wait times."
+  },
+  {
+    "id": "support-contract",
+    "topic": "support",
+    "title": "Contracts and cancellation",
+    "text": "All Aporum residential plans are month-to-month with no long-term contract and no early termination fee. Customers can upgrade, downgrade, or cancel their plan anytime from the account portal, effective at the next billing cycle."
+  },
+  {
+    "id": "faq-bundles",
+    "topic": "faq",
+    "title": "Bundles and extras",
+    "text": "Aporum does not require bundling with TV or phone service. Optional add-ons include Whole-Home WiFi mesh extenders for $8/month per unit and a Security Suite (network-level malware and ad blocking) for $5/month."
+  },
+  {
+    "id": "faq-business",
+    "topic": "faq",
+    "title": "Business service",
+    "text": "Aporum also offers dedicated business fiber plans starting at 1 Gbps symmetric with SLA-backed uptime guarantees, separate from the residential plans listed here. Business customers should be routed to a business sales specialist for a custom quote."
+  }
+]

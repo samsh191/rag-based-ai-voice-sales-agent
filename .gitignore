@@ -1,0 +1,15 @@
+# Node / frontend
+frontend/node_modules
+frontend/dist
+frontend/.env
+
+# Python / backend
+backend/__pycache__/
+backend/**/__pycache__/
+backend/.venv
+backend/venv
+backend/.env
+backend/app/storage/*.xlsx
+
+# OS
+.DS_Store
