@@ -26,7 +26,7 @@ export default function Home() {
 
       <div className="demo-banner">
         <div className="container">
-          <p className="demo-banner__text">Sam's Demo Project</p>
+          <p className="demo-banner__text">Sam's Demo Project! Backend needs to be started first for the test to work.</p>
         </div>
       </div>
 
