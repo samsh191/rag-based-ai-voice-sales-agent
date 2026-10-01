@@ -45,6 +45,21 @@
   width: 100%;
 }
 
+/* ---- demo banner ---- */
+.demo-banner {
+  background: var(--amber);
+}
+.demo-banner__text {
+  margin: 0;
+  padding: 10px 0;
+  text-align: center;
+  font-family: var(--font-display);
+  font-weight: 700;
+  font-size: 13.5px;
+  letter-spacing: 0.02em;
+  color: var(--navy-950);
+}
+
 /* ---- shared: header ---- */
 .site-header {
   position: sticky;

@@ -24,6 +24,12 @@ export default function Home() {
     <div>
       <Header />
 
+      <div className="demo-banner">
+        <div className="container">
+          <p className="demo-banner__text">Sam's Demo Project</p>
+        </div>
+      </div>
+
       <section className="hero">
         <div className="container hero__row">
           <div className="hero__copy">
